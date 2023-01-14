@@ -16,3 +16,4 @@ myTable.add_row(['Misprediction rate',ans2,ans1])
 print("Total branches : {}".format(count_t+count_n))
 print(myTable)
 print("More accurate model is the \"Always Not Taken\" model")
+//project ends
